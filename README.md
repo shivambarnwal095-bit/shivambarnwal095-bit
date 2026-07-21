@@ -1,15 +1,18 @@
-![logo](https://github.com/shivambarnwal095-bit/shivambarnwal095-bit/blob/main/Futuristic%20profile%20of%20Ayush%20Barnwal.png)
-
 <h1 align="center">Hi 👋, I'm Ayush Barnwal</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivambarnwal095-bit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🌱 I’m currently learning **Django**
+- 🌱 I'm currently learning Modern Web Development and building responsive websites
 
--👨‍💻 All of my projects are available at https://latestportfolios.netlify.app/
+-<p>💼 All of my projects are available at <a href="https://latestportfolios.netlify.app/" target="_blank">Portfolio</a></p>
 
-- 💬 Ask me about **HTML,CSS,javascript**
+- 💬 Ask me about **Web Development & Problem Solving**
 
-- 📫 How to reach me **shivambarnwal095@gmail.com**
+- 📫 Reach me at **shivambarnwal095@gmail.com**
+
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am Funny 😎**
 
