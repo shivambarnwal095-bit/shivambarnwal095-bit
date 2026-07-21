@@ -2,19 +2,23 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivambarnwal095-bit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="900">
 </p>
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
+
 - 🌱 I'm currently learning Modern Web Development and building responsive websites
 
--<p>💼 All of my projects are available at <a href="https://latestportfolios.netlify.app/" target="_blank">Portfolio</a></p>
-
-- 💬 Ask me about **Web Development & Problem Solving**
+<p>💼 All of my projects are available at <a href="https://latestportfolios.netlify.app/" target="_blank">Portfolio</a></p>
 
 - 📫 Reach me at **shivambarnwal095@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences <a href="./Ayush_Barnwal_Resume.pdf" target="_blank">Resume</a>
 
-- ⚡ Fun fact **I am Funny 😎**
+- 💬 Ask me about **Web Development & Problem Solving**
+
+- 🔥 Fun fact: I believe every bug is a chance to learn something new.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
